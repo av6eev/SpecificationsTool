@@ -1,0 +1,132 @@
+.btn {
+    color: #DAFFFB;
+    font-size: 14px;
+    -unity-text-align: middle-center;
+    width: auto;
+    align-self: center;
+    padding: 5px 7px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.btn-primary {
+    background-color: #176B87;
+}
+
+.btn-primary:hover {
+    background-color: #1c7ea0;
+}
+
+.btn-primary:focus {
+    background-color: #1f7387;
+}
+
+.btn-secondary {
+    background-color: cornflowerblue;
+}
+
+.root {
+    background-color: #001C30;
+    /*-unity-font-definition: url("/Assets/Content/Fonts/Kanit/Kanit-Light.ttf");*/
+    /*-unity-font-definition: url("/Assets/Content/Fonts/Ubuntu/Ubuntu-Regular.ttf");*/
+    -unity-font-definition: url("/Assets/Content/Fonts/Chakra/ChakraPetch-Medium.ttf");
+}
+
+.header {
+    padding-bottom: 5px;
+    padding-top: 8px;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.body {
+    height: 50%;
+}
+
+.body-title {
+    font-size: 20px;
+    color: #DAFFFB;
+    width: 100%;
+    height: 10%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.body-list {
+    flex-direction: row;
+    align-items: flex-start;
+    align-self: center;
+    height: auto;
+}
+
+.body-list-group {
+    border-color: #A9D4CB;
+}
+
+.body-list-group-title {
+    color: #DAFFFB;
+    font-size: 16px;
+    align-self: center;
+}
+
+.body-list-group-element {
+    font-size: 14px;
+    align-self: center;
+}
+
+.body-list-group-element-primary {
+    color: aquamarine;
+}
+
+.body-list-group-element-secondary {
+    color: orangered;
+}
+
+.body-warnings {
+    
+}
+
+.body-warnings-group {
+
+}
+
+.body-warnings-group-title {
+    align-self: center;
+    color: #ECC237;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+.body-warnings-group-element {
+    font-size: 15px;
+    align-self: flex-start;
+    margin-left: 10px;
+}
+
+.create-tab-parameters {
+    width: 70%;
+    height: 90%;
+    padding-top: 15px;
+}
+
+.create-tab-text-field {
+    font-size: 15px;
+}
+
+.create-tab-enum-field {
+    font-size: 15px;
+}
+
+.create-tab-enum-field-input {
+    font-size: 14px;
+    background-color: #176B87;
+}
+
+.create-tab-sub-tab {
+    
+}
+
+.create-tab-class-sub-tab {
+    
+}

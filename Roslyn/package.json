@@ -1,0 +1,17 @@
+{
+  "name": "roslyn",
+  "version": "0.0.1",
+  "displayName": "Roslyn Libs",
+  "description": "Useful utilities for Unity projects",
+  "unity": "2022.3",
+  "dependences": {},
+  "keywords": [
+    "roslyn"
+  ],
+  "author": {
+    "name": "Arseny Avdeev",
+    "email": "av6eev@gmail.com",
+    "url": ""
+  },
+  "hideInEditor": false
+}
